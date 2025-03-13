@@ -11,7 +11,6 @@ public class GithubDemo2Application {
 	String name = "bijay";
 	String work = "java developer";
 	int b = 78;
-	gshdfjdqjdkqj
 	public static void main(String[] args) {
 		SpringApplication.run(GithubDemo2Application.class, args);
 	}
